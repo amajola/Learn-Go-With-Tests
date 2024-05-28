@@ -95,4 +95,4 @@ func TestHello(t *testing.T) { // Test function
 - Ensures code correctness and functionality
 - Improves code design and structure
 - Facilitates refactoring and maintenance
-- Enables incremental development with confidence
+- Enables incremental development with **confidence**
