@@ -1,3 +1,3 @@
-module learning
+module learning_go
 
 go 1.22.3
